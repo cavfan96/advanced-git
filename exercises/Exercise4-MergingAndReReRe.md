@@ -49,7 +49,7 @@ We see our new commit, `e348ebc`, with it's parent, `43388fe`, our initial commi
 
 Fast forward commits happen when the base branch (the one you created your branch on) hasn't changed after you branched from it. The history is linear.
 
-You'll usuaully see a fast-forward happening on the master branch after merging in a feature, like this:
+You'll usually see a fast-forward happening on the master branch after merging in a feature, like this:
 
 ![before ff](https://user-images.githubusercontent.com/2030983/31261121-f747408a-aa17-11e7-8377-e009019707a0.png)
 
